@@ -30,14 +30,18 @@ Saya memiliki latar belakang di bidang informatika dan berfokus mengembangkan ke
 ####  Mall Customers Segmentation & Dashboard
 - **Deskripsi:**
   Segmentasi pelanggan mall menggunakan K-Means clustering berdasarkan spending score dan annual income.
-  Membuat dashboard dengan Power BI  
-- [📂 Dokumen](https://github.com/didan/mall-customers-analysis)
+  Membuat dashboard dengan Power BI.
+- [📂 Dokumen](https://github.com/didanslmn/mall-customers-analyst)
 
 ####  Global Book Sales
 - **Deskripsi:**
-  Segmentasi pelanggan mall menggunakan K-Means clustering berdasarkan spending score dan annual income.
-  Membuat dashboard dengan Power BI  
-- [📂 Dokumen](https://github.com/didan/mall-customers-analysis)  
+  Proyek ini mengeksplorasi kumpulan data hampir 1.000 buku dan menganalisis pola dalam penjualan, popularitas penulis, kinerja genre, dan profitabilitas.           Menggunakan alat analisis dan visualisasi data Python, kami mengekstrak wawasan kunci untuk menginformasikan strategi pemasaran dan penerbitan. 
+- [📂 Dokumen](https://github.com/didanslmn/book-sales-analyst)
+
+  ####  E-commerce Sales
+- **Deskripsi:**
+  Proyek ini mengeksplorasi kumpulan data hampir 1.000 buku dan menganalisis pola dalam penjualan, popularitas penulis, kinerja genre, dan profitabilitas.           Menggunakan alat analisis dan visualisasi data Python, kami mengekstrak wawasan kunci untuk menginformasikan strategi pemasaran dan penerbitan. 
+- [📂 Dokumen](https://github.com/didanslmn/sales-ecommerce-analyst)  
 
 ---
 
@@ -80,8 +84,8 @@ Universitas Teknologi Yogyakarta, 2020 – 2024
 ## 📫 Contact
 
 - 📧 Email: sulaimandidan@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/didan](https://linkedin.com/in/didansulaiman)  
-- 💻 GitHub: [github.com/didan](https://github.com/didanslmn)
+- 💼 LinkedIn: [linkedin.com/in/didansulaiman](https://linkedin.com/in/didansulaiman)  
+- 💻 GitHub: [github.com/didanslmn](https://github.com/didanslmn)
 
 ---
 
