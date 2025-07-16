@@ -31,17 +31,18 @@ Saya memiliki latar belakang di bidang informatika dan berfokus mengembangkan ke
 - **Deskripsi:**
   Segmentasi pelanggan mall menggunakan K-Means clustering berdasarkan spending score dan annual income.
   Membuat dashboard dengan Power BI.
-- [📂 Dokumen](https://github.com/didanslmn/mall-customers-analyst)
+- [📂 Github](https://github.com/didanslmn/mall-customers-analyst)
 
 ####  Global Book Sales
 - **Deskripsi:**
   Proyek ini mengeksplorasi kumpulan data hampir 1.000 buku dan menganalisis pola dalam penjualan, popularitas penulis, kinerja genre, dan profitabilitas.           Menggunakan alat analisis dan visualisasi data Python, kami mengekstrak wawasan kunci untuk menginformasikan strategi pemasaran dan penerbitan. 
-- [📂 Dokumen](https://github.com/didanslmn/book-sales-analyst)
+- [📂 Github](https://github.com/didanslmn/book-sales-analyst)
 
   ####  E-commerce Sales
 - **Deskripsi:**
-  Proyek ini mengeksplorasi kumpulan data hampir 1.000 buku dan menganalisis pola dalam penjualan, popularitas penulis, kinerja genre, dan profitabilitas.           Menggunakan alat analisis dan visualisasi data Python, kami mengekstrak wawasan kunci untuk menginformasikan strategi pemasaran dan penerbitan. 
-- [📂 Dokumen](https://github.com/didanslmn/sales-ecommerce-analyst)  
+  Proyek ini bertujuan untuk menganalisis data penjualan dari platform e-commerce untuk memahami tren penjualan, perilaku pelanggan, dan kinerja produk.
+  Dengan menggunakan Python dan Power BI, proyek ini memberikan insight penting untuk mendukung pengambilan keputusan serta visualisasi yang mempermudah dalam   memahami data.
+- [📂 Github](https://github.com/didanslmn/sales-ecommerce-analyst)  
 
 ---
 
@@ -75,9 +76,11 @@ Universitas Teknologi Yogyakarta, 2020 – 2024
 
 ## 📜 Certificates
 
-- [📄 Intro to SQL - Kaggle](https://www.kaggle.com/learn/certification/didan/intro-to-sql)
-- [📄 Data Analysis with Python - FreeCodeCamp](https://www.freecodecamp.org/certification/didan/data-analysis)
-- [📄 Power BI Essential Training - LinkedIn Learning](https://www.linkedin.com/...)
+- [📄 Intro to SQL - Kaggle](https://drive.google.com/file/d/1XnS-gOGypncV2Hs0Ykc16uDcJ_YCUfr-/view?usp=sharing)
+- [📄 SQL (basic) - HackerRank](https://drive.google.com/file/d/1k2cNsSiaNz6poGyimpi0KssnJPFI5Z3a/view?usp=sharing)
+- [📄 Machine Learning Certification - RapidMiner](https://drive.google.com/file/d/1swaIf39hIINi0dD9sew7F5o-GtuE1rAF/view?usp=drive_link)
+- [📄 Data Enginering Certification - RapidMiner](https://drive.google.com/file/d/1ucqIxY0rRVone2f0ogsZVVEie84nudS8/view?usp=drive_link)
+- [📄 Busniness Analyst - Simple Learn](https://drive.google.com/file/d/1g2GaApPK3UsPEBE6IXqmVBOSzozzWdPe/view?usp=drive_link)
 
 ---
 
